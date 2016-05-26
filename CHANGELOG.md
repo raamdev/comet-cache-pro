@@ -1,3 +1,7 @@
+= v160526.1 =
+
+- **Testing:** Testing new release process with Phing v160526, now that I've fixed the issue with the Lite repo branches being out of sync.
+
 = v160526 =
 
 - **Testing:** Testing new release process with Phing v160526. Props @jaswsinc. :-) 
